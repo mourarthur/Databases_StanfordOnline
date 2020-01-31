@@ -7,4 +7,4 @@ from
 	where stars is not null
 	group by title
 	)
-order by spread desc, title
+order by spread desc, title;
