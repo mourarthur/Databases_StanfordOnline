@@ -1,0 +1,17 @@
+Extra SQL Social Network Query Exercises
+
+Q1:
+For every situation where student A likes student B, but student B likes a different student C, return the names and grades of A, B, and C.
+
+Q2:
+Find those students for whom all of their friends are in different grades from themselves. Return the students' names and grades.
+
+Q3:
+What is the average number of friends per student?
+(Your result should be just one number.)
+
+Q4:
+Find the number of students who are either friends with Cassandra or are friends of friends of Cassandra. Do not count Cassandra, even though technically she is a friend of a friend.
+
+Q5:
+Find the name and grade of the student(s) with the greatest number of friends.
